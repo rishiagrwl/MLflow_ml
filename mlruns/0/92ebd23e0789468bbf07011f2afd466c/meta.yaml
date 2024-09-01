@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/DS_Projects/MLOPS/MLflow_ml/mlruns/0/92ebd23e0789468bbf07011f2afd466c/artifacts
+end_time: 1725189946222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92ebd23e0789468bbf07011f2afd466c
+run_name: judicious-horse-63
+run_uuid: 92ebd23e0789468bbf07011f2afd466c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725189939158
+status: 3
+tags: []
+user_id: com

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/DS_Projects/MLOPS/MLflow_ml/mlruns/0/199a08479b2942478db1c8d3372d1116/artifacts
+end_time: 1725189720291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 199a08479b2942478db1c8d3372d1116
+run_name: brawny-eel-688
+run_uuid: 199a08479b2942478db1c8d3372d1116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725189712538
+status: 3
+tags: []
+user_id: com
